@@ -19,6 +19,9 @@ Some services may use location information transmitted from users' cell phones. 
 ### Device Information
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
 
+### Microphone
+At Just Speak App, we utilize the microphone feature to enhance the learning experience for our users. The microphone is used to facilitate real-time spoken conversations between randomly paired individuals practicing the English language. Your privacy is of utmost importance to us, and we assure you that your microphone usage is solely for the purpose of enabling effective language practice. We do not share any personal information or audio recordings from these sessions. Your trust and privacy are our priorities.
+
 ### Service Providers
 We may employ third-party companies and individuals due to the following reasons:
 To facilitate our Service;
